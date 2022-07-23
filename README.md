@@ -1,0 +1,1 @@
+This project mainly deals with your income and expenses. With this project you can keep an eye on your expenses and budget. Whenever there is an exchange of money, add it in the budget tracker and it will show your budget for the month.
